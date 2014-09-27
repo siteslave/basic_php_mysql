@@ -1,0 +1,22 @@
+{
+  "name": "Basic PHP",
+  "version": "0.0.0",
+  "authors": [
+    "Satit Rianpit <siteslave@msn.com>"
+  ],
+  "description": "Basic PHP",
+  "keywords": [
+    "Basic",
+    "PHP",
+    "MySQL"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
